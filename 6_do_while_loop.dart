@@ -1,3 +1,6 @@
+// ACHUKA SIMON ALLAN
+// 20/U/19779/PS
+
 int main() {
   int z = -1;
   do {

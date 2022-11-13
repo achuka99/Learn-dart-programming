@@ -1,3 +1,6 @@
+// ACHUKA SIMON ALLAN
+// 20/U/19779/PS
+
 void main(List<String> args) {
   String grade = 'A';
   switch (grade) {
